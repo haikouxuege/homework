@@ -16,3 +16,9 @@
 # 实验四
 
 [Gui编程:TF、IDF、TF_IDF计算](https://axblog.top/?p=409)
+
+# 实验五-课程设计
+
+[Gui编程:网络文章相似度分析](https://axblog.top/?p=416)
+
+![课程设计](./img/课程设计)
